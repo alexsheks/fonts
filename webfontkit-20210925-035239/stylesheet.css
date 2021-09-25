@@ -5,7 +5,7 @@
 @font-face {
     font-family: 'walls_roughthin';
     src: url('pinata_-_walls_rough_thin-webfont.woff2') format('woff2'),
-         url('pinata_-_walls_rough_thin-webfont.woff') format('woff');
+         url('https://github.com/alexsheks/fonts/blob/main/webfontkit-20210925-035239/pinata_-_walls_rough_thin-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
